@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+fastapi-prac/
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
